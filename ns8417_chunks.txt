@@ -1,0 +1,6 @@
+
+--- CHUNK 1
+Dette er et eksempel på en chunk fra NS 8417. Her kan du lime inn ekte innhold fra kontrakten.
+
+--- CHUNK 2
+Videre tekst fra NS 8417...
